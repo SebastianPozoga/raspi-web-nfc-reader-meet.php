@@ -1,0 +1,17 @@
+* {
+  pading: 0px;
+  margin: 0px;
+  border: 0px; }
+
+h1 {
+  padding: 20px; }
+
+table {
+  width: 100%;
+  max-width: 600px;
+  text-align: center;
+  margin: auto; }
+  table tr:hover {
+    background-color: #ddd; }
+  table td {
+    paddin: 10px; }
